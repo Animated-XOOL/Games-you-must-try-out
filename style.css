@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+
+.line{
+    height: 6px;
+    background-color: brown;
+    width: 70px;
+    margin: 8px auto;
+}
+#gm{
+    width: 100%;
+    height: 800px;
+    background-color: darkorange;
+}
+img{
+    width: 500px;
+    padding-left: 15px;
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+#chatty{
+    width: 100%;
+    height: 800px;
+    background-color: cadetblue;
+}
+#yess☻{
+    background-color: teal;
+}
+.carousel-inner p{
+    font-size: 20px;
+    color: blanchedalmond;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#yess☻ img{
+    margin-top: 15px;
+}
+#ero{
+    background-color: darkgray;
+    text-decoration-color: aliceblue;
+}
